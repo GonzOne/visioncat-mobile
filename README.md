@@ -1,5 +1,5 @@
 # Vision Cat
-
+-author - M. Gonzalez
 
 ## Dependencies
 - node & npm - http://nodejs.org/download/
